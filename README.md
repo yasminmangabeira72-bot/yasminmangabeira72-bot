@@ -1,10 +1,10 @@
-## # 🌿 Psychological Support Project
+## #  Psychological Support Project
 
-## 👩‍💻 About Me
+##  About Me
 
 My name is **Yasmin Mangabeira de Oliveira**, I am 17 years old, and I am developing this website with the goal of offering support, information, and a welcoming space for people who need psychological help.
 
-## 💙 Project Goal
+##  Project Goal
 
 This website was created to:
 
@@ -13,7 +13,7 @@ This website was created to:
 * Share ways to seek professional support
 * Create a safe and welcoming environment
 
-## 🧠 Topics Covered
+##  Topics Covered
 
 * Anxiety
 * Depression
@@ -22,15 +22,15 @@ This website was created to:
 * Self-knowledge
 * Emotional well-being tips
 
-## 🎯 Target Audience
+##  Target Audience
 
 People who are looking for guidance, emotional support, and reliable information about mental health.
 
-## ⚠️ Important Notice
+##  Important Notice
 
 This website **does not replace professional psychological support**. In case of emergency, seek medical help or a qualified professional.
 
-## 🚀 Project Status
+##  Project Status
 
 In development.
 
